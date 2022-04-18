@@ -5,5 +5,4 @@ const hello = () => {
 };
 hello();
 
-console.log("hello2");
-
+console.log("hello 2");
